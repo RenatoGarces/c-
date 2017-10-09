@@ -1,0 +1,9 @@
+c:\users\renat\onedrive\documentos\visual studio 2012\Projects\PicoPlaca\PicoPlaca\bin\Debug\PicoPlaca.exe.config
+C:\Users\renat\onedrive\documentos\visual studio 2012\Projects\PicoPlaca\PicoPlaca\bin\Debug\PicoPlaca.exe
+C:\Users\renat\onedrive\documentos\visual studio 2012\Projects\PicoPlaca\PicoPlaca\bin\Debug\PicoPlaca.pdb
+C:\Users\renat\onedrive\documentos\visual studio 2012\Projects\PicoPlaca\PicoPlaca\obj\Debug\PicoPlaca.csprojResolveAssemblyReference.cache
+C:\Users\renat\onedrive\documentos\visual studio 2012\Projects\PicoPlaca\PicoPlaca\obj\Debug\PicoPlaca.Form1.resources
+C:\Users\renat\onedrive\documentos\visual studio 2012\Projects\PicoPlaca\PicoPlaca\obj\Debug\PicoPlaca.Properties.Resources.resources
+C:\Users\renat\onedrive\documentos\visual studio 2012\Projects\PicoPlaca\PicoPlaca\obj\Debug\PicoPlaca.csproj.GenerateResource.Cache
+C:\Users\renat\onedrive\documentos\visual studio 2012\Projects\PicoPlaca\PicoPlaca\obj\Debug\PicoPlaca.exe
+C:\Users\renat\onedrive\documentos\visual studio 2012\Projects\PicoPlaca\PicoPlaca\obj\Debug\PicoPlaca.pdb
